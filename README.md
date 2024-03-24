@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Projeto contruído para a aula de Desenvolvimento Web I.
+Projeto desenvolvido para a aula de Desenvolvimento Web I.
 
 ![preview](preview.png)
 
